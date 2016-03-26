@@ -1,0 +1,12 @@
+{
+  "name": "basic-twitter-bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "node-env-file": "^0.1.8",
+    "twit": "^2.2.2"
+  }
+}
